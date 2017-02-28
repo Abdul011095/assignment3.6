@@ -1,0 +1,9 @@
+1)
+ 
+number of data nodes n=intial data size/ available disk space per node
+ 		       =600/7
+			=86
+
+
+
+2) yes,the 100Mb of data that is uploaded will be displayed 
